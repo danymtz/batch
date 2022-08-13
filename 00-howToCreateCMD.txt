@@ -1,0 +1,5 @@
+Para crear un cmd:
+
+-Bloc de notas
+-Escribir: "command.com"
+-Guardar como: "cmd.bat"
